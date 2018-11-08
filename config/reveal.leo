@@ -39,36 +39,21 @@
 </v>
 </v>
 <v t="leo.20181015110209.1"><vh>week1</vh>
-<v t="leo.20181015110209.2" a="E"><vh>導入數學符號與方程式</vh>
+<v t="leo.20181015110209.2"><vh>導入數學符號與方程式</vh>
 <v t="leo.20181015110209.3"><vh>01</vh></v>
 </v>
 <v t="leo.20181015110209.4" a="E"><vh>導入縮排程式碼</vh>
 <v t="leo.20181015110209.5"><vh>02</vh></v>
-</v>
-<v t="leo.20181015110209.6" a="E"><vh>導入影片</vh>
-<v t="leo.20181015110209.7"><vh>03</vh></v>
 </v>
 </v>
 <v t="leo.20181015110552.1"><vh>week2</vh>
 <v t="leo.20181015110552.2" a="E"><vh>導入數學符號與方程式</vh>
 <v t="leo.20181015110552.3"><vh>01</vh></v>
 </v>
-<v t="leo.20181015110552.4" a="E"><vh>導入縮排程式碼</vh>
-<v t="leo.20181015110552.5"><vh>02</vh></v>
-</v>
-<v t="leo.20181015110552.6" a="E"><vh>導入影片</vh>
-<v t="leo.20181015110552.7"><vh>03</vh></v>
-</v>
 </v>
 <v t="leo.20181015110607.1"><vh>week3</vh>
-<v t="leo.20181015110607.2" a="E"><vh>導入數學符號與方程式</vh>
+<v t="leo.20181015110607.2"><vh>導入數學符號與方程式</vh>
 <v t="leo.20181015110607.3"><vh>01</vh></v>
-</v>
-<v t="leo.20181015110607.4" a="E"><vh>導入縮排程式碼</vh>
-<v t="leo.20181015110607.5"><vh>02</vh></v>
-</v>
-<v t="leo.20181015110607.6" a="E"><vh>導入影片</vh>
-<v t="leo.20181015110607.7"><vh>03</vh></v>
 </v>
 </v>
 <v t="leo.20181015110619.1"><vh>week4</vh>
@@ -82,26 +67,44 @@
 <v t="leo.20181015110619.7"><vh>03</vh></v>
 </v>
 </v>
-<v t="leo.20181015110631.1" a="E"><vh>week5</vh>
-<v t="leo.20181015110631.2" a="E"><vh>導入數學符號與方程式</vh>
+<v t="leo.20181015110631.1"><vh>week5</vh>
+<v t="leo.20181015110631.2"><vh>導入數學符號與方程式</vh>
 <v t="leo.20181015110631.3"><vh>01</vh></v>
 </v>
-<v t="leo.20181015110631.4" a="E"><vh>導入縮排程式碼</vh>
+<v t="leo.20181015110631.4"><vh>導入縮排程式碼</vh>
 <v t="leo.20181015110631.5"><vh>02</vh></v>
 </v>
-<v t="leo.20181015110631.6" a="E"><vh>導入影片</vh>
+<v t="leo.20181015110631.6"><vh>導入影片</vh>
 <v t="leo.20181015110631.7"><vh>03</vh></v>
 </v>
+<v t="leo.20181108133047.1" a="E"><vh>導入影片</vh>
+<v t="leo.20181108133047.2"><vh>03</vh></v>
 </v>
-<v t="leo.20181015110641.1" a="E"><vh>week6</vh>
+<v t="leo.20181108133059.1" a="E"><vh>導入影片</vh>
+<v t="leo.20181108133059.2"><vh>03</vh></v>
+</v>
+<v t="leo.20181108133105.1" a="E"><vh>導入影片</vh>
+<v t="leo.20181108133105.2"><vh>03</vh></v>
+</v>
+</v>
+<v t="leo.20181015110641.1"><vh>week6</vh>
 <v t="leo.20181015110641.2" a="E"><vh>導入數學符號與方程式</vh>
 <v t="leo.20181015110641.3"><vh>01</vh></v>
 </v>
-<v t="leo.20181015110641.4" a="E"><vh>導入縮排程式碼</vh>
-<v t="leo.20181015110641.5"><vh>02</vh></v>
 </v>
-<v t="leo.20181015110641.6" a="E"><vh>導入影片</vh>
-<v t="leo.20181015110641.7"><vh>03</vh></v>
+<v t="leo.20181108130228.1"><vh>week7</vh>
+<v t="leo.20181108130228.2" a="E"><vh>導入數學符號與方程式</vh>
+<v t="leo.20181108130228.3"><vh>01</vh></v>
+</v>
+</v>
+<v t="leo.20181108130234.1"><vh>week8</vh>
+<v t="leo.20181108130234.2" a="E"><vh>導入數學符號與方程式</vh>
+<v t="leo.20181108130234.3"><vh>01</vh></v>
+</v>
+</v>
+<v t="leo.20181108130238.1"><vh>week9</vh>
+<v t="leo.20181108130238.2"><vh>導入數學符號與方程式</vh>
+<v t="leo.20181108130238.3"><vh>01</vh></v>
 </v>
 </v>
 </v>
@@ -408,7 +411,15 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181015110209.3"># week1</t>
+<t tx="leo.20181015110209.3"># week1
+* step1:建立一個新的倉庫,名字為自己的學
+號.github.io,權限設為公開
+* step2:clone新的倉庫的網址,資料夾名字取為40623250,按Entergit clone https://github.com/40623250/40623250.github.io
+* step3:切記.git和README.md不能複製外,其餘都  
+複製到自己的資料夾
+
+
+</t>
 <t tx="leo.20181015110209.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -420,18 +431,10 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181015110209.5">
-</t>
-<t tx="leo.20181015110209.6">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20181015110209.7"></t>
+<t tx="leo.20181015110209.5">* step4:先看自己的狀態然後增加,再提交,推送的名稱為initial add
+* step5:設定自己提交的email和name
+* step6:開啟進端https://localhost:8443進去修改網誌名稱為:2018 Fall 40623250 分組網站
+* step7:在重複step4的步驟,在git push上傳</t>
 <t tx="leo.20181015110552.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -448,30 +451,11 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181015110552.3"># week2</t>
-<t tx="leo.20181015110552.4">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
+<t tx="leo.20181015110552.3"># week2
+* Step1:依照Week1先去mde.tw領取個人倉儲
+* Step2:利用 Settings 將內定 branch 設為 gh-pages
+* Step3: git clone 作業倉儲至近端後, 著手將練習 Onshape 的各項過程資料存入 CMSimfly, Reveal.js 與 Pelican Blog 中
 </t>
-<t tx="leo.20181015110552.5">
-</t>
-<t tx="leo.20181015110552.6">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20181015110552.7"></t>
 <t tx="leo.20181015110607.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -488,30 +472,9 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181015110607.3"># week3</t>
-<t tx="leo.20181015110607.4">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
+<t tx="leo.20181015110607.3"># week3
+9月24日中秋節放假
 </t>
-<t tx="leo.20181015110607.5">
-</t>
-<t tx="leo.20181015110607.6">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20181015110607.7"></t>
 <t tx="leo.20181015110619.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -528,7 +491,12 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181015110619.3"># week4</t>
+<t tx="leo.20181015110619.3"># week4
+* Step1:建立 Onshape 帳號 - 請利用學校 gmail 建立教育版帳號
+* Step2:3D 環境導航 (navigate)
+* Step3:說明基於草圖 (sketch-based)的建模
+* Step4:介紹 4 個基本特徵 (features)（擠出(extrude)，旋轉(revolve)，掃描(sweep)，和斷面混成(loaf)）
+</t>
 <t tx="leo.20181015110619.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -540,8 +508,10 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181015110619.5">
-</t>
+<t tx="leo.20181015110619.5">* Step5:從 2D 過渡到 3D
+* Step6:介紹基本草圖
+* Step7:附錄A：鍵盤快捷鍵 (keyboard shotcuts)，滑鼠和觸控平面手勢 (touchpad gestures)，檢視工具
+* Step8:附錄B：導航說明檔，建立帳號，訂閱計劃 (subscription plans)</t>
 <t tx="leo.20181015110619.6">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -551,7 +521,9 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181015110619.7"></t>
+<t tx="leo.20181015110619.7">* Step9:圓柱薄殼 (cylinder shell) - 繪圖界面與可視化/檢視的介紹
+* Step10:針對既有草圖的模型 - 接續建立特徵
+* Step11:現存公用模型 (public models) - 如何搜尋並復製到工作區 (workspace)</t>
 <t tx="leo.20181015110631.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -568,7 +540,8 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181015110631.3"># week5</t>
+<t tx="leo.20181015110631.3"># week5
+Onshape練習</t>
 <t tx="leo.20181015110631.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -580,7 +553,7 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181015110631.5">
+<t tx="leo.20181015110631.5">&lt;iframe width="560" height="314" src="//www.youtube.com/embed/WcPcmmMB7q0" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;
 </t>
 <t tx="leo.20181015110631.6">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -591,7 +564,7 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181015110631.7"></t>
+<t tx="leo.20181015110631.7">&lt;iframe width="560" height="314" src="//www.youtube.com/embed/C0di2rktB7o" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20181015110641.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -608,8 +581,18 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181015110641.3"># week6</t>
-<t tx="leo.20181015110641.4">&lt;section data-markdown&gt;
+<t tx="leo.20181015110641.3"># week6
+* 複習W1-W5的課程，確保每個教學影片都看過並吸收完畢
+* 學習如何處理網誌的問題
+* 說明如何升級最新的CMSimfly倉儲中的flaskapp.py
+
+</t>
+<t tx="leo.20181108130228.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181108130228.2">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
@@ -620,9 +603,57 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181015110641.5">
+<t tx="leo.20181108130228.3"># week7
+* 說明在使用 CMSimfly 過程, 碰到無法正確解讀 config/content.htm 時, 可更新程式碼或回報問題的流程
+* 說明如何利用 Virtualbox 安裝 Ubuntu 18.04.1 伺服器, 目的在自行建立 Fossil SCM 
+* 展示如何在先前所建立的虛擬 Ubuntu 18.04 上啟動 https 協定下的 Fossil SCM 伺服器
+* 說明如何利用 Fossil SCM 建立區域網路中的分散式版次管理系統
+* 說明如何利用 git remote add 指令, 建立 gitlab 與 bitbucket 上的同步倉儲
+
+
 </t>
-<t tx="leo.20181015110641.6">&lt;section data-markdown&gt;
+<t tx="leo.20181108130234.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181108130234.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181108130234.3"># week8
+* 說明機電資整合設計專案流程所需的相關套件運用與技術
+* 當設計者在 Onshape 完成系統的零組件設計繪製後, 通常採用 STL 格式的組立檔輸入 V-rep, 之後將各零件拆解後, 根據各傳動軸的配置進行運動系統模型的建構
+</t>
+<t tx="leo.20181108130238.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181108130238.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181108130238.3"># week9
+說明如何利用 Github Classroom 進行期末分組專題倉儲的設定
+* Step1:Github Classroom 管理員在 mdecadp2018 建立 finalproject 協同作業, 建立後得到能讓各組員參與分組的作業連結
+* Step2:組長登入 Github 後, 點選分組作業連結後, 建立各分組 team, 並完成分組倉儲的設定, mdecadp2018/finalproject-bg1 ~ bg8
+* Step3:各組員登入 Github, 點選分組作業連結, 依照組序加入各組對應的 team.</t>
+<t tx="leo.20181108133047.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -631,6 +662,26 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181015110641.7"></t>
+<t tx="leo.20181108133047.2">&lt;iframe width="560" height="314" src="//www.youtube.com/embed/tWb8IWIigzY" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20181108133059.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181108133059.2">&lt;iframe width="560" height="314" src="//www.youtube.com/embed/OHLt5oDvqtY" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20181108133105.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181108133105.2">&lt;iframe width="560" height="314" src="//www.youtube.com/embed/uwgFfjCHBk4?t=38s" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;</t>
 </tnodes>
 </leo_file>
